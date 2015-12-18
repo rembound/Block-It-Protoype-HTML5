@@ -1,5 +1,5 @@
 # Block It Protoype HTML5
-Learn how to make a game like Block It from Ketchapp Games with HTML5 Canvas and JavaScript. We create a playable prototype of the mobile game.
+A prototype of a game like Block It from Ketchapp Games with HTML5 Canvas and JavaScript.
 
 This is a code example that belongs to the article: [Making A Block It Game Prototype With HTML5](http://rembound.com/articles/making-a-block-it-game-prototype-with-html5)
 
